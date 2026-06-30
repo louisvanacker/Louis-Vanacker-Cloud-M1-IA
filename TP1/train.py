@@ -1,10 +1,3 @@
-"""
-train.py
-
-Entraîne un modèle de régression sur le dataset California Housing
-et sauvegarde le modèle entraîné dans model.joblib.
-"""
-
 import joblib
 from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
