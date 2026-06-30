@@ -1,10 +1,3 @@
-"""
-app.py
-
-API FastAPI exposant le modèle de prédiction de prix de logement
-(California Housing).
-"""
-
 from contextlib import asynccontextmanager
 from typing import List
 
