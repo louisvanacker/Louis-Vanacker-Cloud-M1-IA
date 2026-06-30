@@ -1,0 +1,11 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Modèle entraîné (régénérable via `python train.py`)
+model.joblib
+*.joblib
